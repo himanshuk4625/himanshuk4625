@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **khimanshu2107@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://www.linkedin.com/in/himanshu4625/)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1bjqPFlKVSw3GYqAqysSZZ1TnEef3UsiO/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
