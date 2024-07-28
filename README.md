@@ -2,11 +2,11 @@
 <h3 align="center">Aspiring data analyst with a passion for uncovering insights and driving business decisions through data analysis.</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🌱 I’m currently learning **Data Analytics**
+- 🌱 I’m currently working as  **Data Analyst**
 
-- 🤝 I’m looking for help with **Internship/Job**
+- 🤝 I’m looking for new **opportunities** 
 
-- 💬 Ask me about **Python, SQL, Tableau, Machine Learning**
+- 💬 Ask me about **Python, SQL, Excel,Tableau, Machine Learning**
 
 - 📫 How to reach me **khimanshu2107@gmail.com**
 
